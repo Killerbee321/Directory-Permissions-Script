@@ -1,0 +1,6 @@
+URL = https://login.bws.birst.com
+username = syed.khadri@infor.com
+password = 
+space_ID = 195C3C47-14FE-4CBF-89A7-0E75078F80FA
+directory = shared
+excel_workbook = CSF9_Consumer_directories
